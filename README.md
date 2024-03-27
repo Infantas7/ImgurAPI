@@ -1,6 +1,7 @@
 # Projeto Relatório
 
-Este projeto consiste em um serviço de relatórios que busca posts consumindo a  API Imgur com base em uma tag específica. Criando um relatório com os 500 posts com o maoior numero de UpVotes.
+Este projeto consiste em um serviço de relatórios que busca posts consumindo a  API Imgur com base em uma tag específica. Criando um relatório com os 500 posts com o maior numero de UpVotes.
+O projeto teve como objetivo, um desafio pessoal visando firmar conceitos da ferramaneta Spring Boot assim como do padrão API Restfull proposto por Roy Fielding.
 
 ---
 ## Endpoints
@@ -14,6 +15,12 @@ Este projeto consiste em um serviço de relatórios que busca posts consumindo a
 ---
 ## Como Rodar o Projeto
 
+### Requisitos / ferramentas utilizadas 
+
+- Java 11 ou superior
+- Maven
+- Java Spring boot
+- Postman 
 
 
 ## Observações
