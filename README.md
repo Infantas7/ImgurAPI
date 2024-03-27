@@ -1,6 +1,6 @@
 # Projeto Relatório
 
-Este projeto consiste em um serviço de relatórios que busca posts consumindo a  API Imgur com base em uma tag específica.
+Este projeto consiste em um serviço de relatórios que busca posts consumindo a  API Imgur com base em uma tag específica. Criando um relatório com os 500 posts com o maoior numero de UpVotes.
 
 ---
 ## Endpoints
@@ -13,12 +13,6 @@ Este projeto consiste em um serviço de relatórios que busca posts consumindo a
   - `tag` (obrigatório): A tag para a busca dos posts.
 ---
 ## Como Rodar o Projeto
-
-### Requisitos
-
-- Java 11 ou superior
-- Maven
----
 
 
 
